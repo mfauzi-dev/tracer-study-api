@@ -1,4 +1,4 @@
-# Tracer Study Backend
+# Tracer Study API
 
 ## **Clone repository**
 
