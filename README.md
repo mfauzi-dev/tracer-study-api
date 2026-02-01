@@ -3,7 +3,7 @@
 ## **Clone repository**
 
 ```bash
-git clone https://github.com/mfauzi-dev/tracer-study-backend
+git clone https://github.com/mfauzi-dev/tracer-study-api.git
 ```
 
 ## **Setup Project Baru**
